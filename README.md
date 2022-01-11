@@ -3,8 +3,8 @@ I have used the following Machine Learning algorithms: Logistic Regression, K Ne
 
 Given some clinical parameters about a patient, we are predicting whether they have heart disease or not. We use the following Machine Learning algorithm:
 
- 1. Logistic Regression
- 2. K Neighbours Classifiers
- 3. Support Vector Machine
- 4. Naive Bayes
- 5. Random Forest
+ 1.Logistic Regression
+ 2.K Neighbours Classifiers
+ 3.Support Vector Machine
+ 4.Naive Bayes
+ 5.Random Forest
